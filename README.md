@@ -24,4 +24,4 @@ El usuario puede agregar nombres de amigos a una lista y luego realizar el sorte
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/InmortalOZKR/Challange-Amigo-Secreto-Oscar-Sanabia-Serrano.git
+   git clone https://github.com/InmortalOZKR/Desafio-Amigo-Secreto-Oscar-Sanabia-Serrano.git
